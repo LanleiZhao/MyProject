@@ -10,3 +10,4 @@ print(dc.feature_names_)
 print(data)
 print('*'*50)
 print(data_after.toarray())
+
